@@ -1,0 +1,23 @@
+.times{
+    display: flex;
+    justify-content: space-around;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+
+}
+.active-btn{
+    width: 100%;
+    height: 40px;
+    background: #029f27;
+    border: none;
+    border-radius:8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}
+@media screen and (max-width: 667px){
+    .times{
+        display: inline;
+    }
+}

@@ -1,0 +1,29 @@
+.files{
+    border: 1px solid #f7f7f7;
+    border-radius: 8px;
+    position: relative;
+    background-color: #fff;
+}
+.docs{
+    padding: 8px;
+    margin-bottom: 20px;
+}
+
+.image{
+    width: 100%;
+    border-radius: 8px;
+
+}
+.btn-lists{
+    width: 100%;
+    height: 40px;
+    background: #029f27;
+    border: none;
+    border-radius: 0px 0px 8px 8px;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}

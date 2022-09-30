@@ -1,0 +1,75 @@
+[
+    {
+      "id": "1",
+      "name": "Bangla",
+      "details": "Addidas",
+      "img": "https://20fd661yccar325znz1e9bdl-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/AdobeStock_90040316.jpeg",
+      "time": 5,
+      "age": "7-15"
+    },
+    {
+        "id": "2",
+        "name": "English",
+        "details": "Addidas",
+        "img": "https://thumbs.dreamstime.com/z/education-people-reading-books-study-concept-university-students-open-books-home-education-people-reading-books-study-concept-141063064.jpg",
+        "time": 7,
+        "age": "8-9"
+    },
+    {
+        "id": "3",
+        "name": "Math",
+        "details": "Addidas",
+        "img": "https://48b6yd3iigex2rv7g41h5sts-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/short-books.jpg",
+        "time": 9,
+        "age": "7-9"
+    },
+    {
+        "id": "4",
+        "name": "Physics",
+        "details": "Addidas",
+        "img": "https://assets.entrepreneur.com/content/3x2/2000/20150827211532-reading-book-in-office-books-read.jpeg?auto=webp&quality=95&crop=16:9&width=675",
+        "time": 20,
+        "age": "21-25"
+    },
+    {
+        "id": "5",
+        "name": "Chemistry",
+        "details": "Addidas",
+        "img": "https://www.thoughtco.com/thmb/sbaKC7fmByxBJeVlJhbtpYTUbXs=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-sb10069478bd-001-58eaf67a3df78c5162ac5a95.jpg",
+        "time": 2,
+        "age": "12-17"
+    },
+    {
+        "id": "6",
+        "name": "Biology",
+        "details": "Addidas",
+        "img": "https://www.thoughtco.com/thmb/tox07y0n4IQNMFasMbHEM9a1D4A=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Stocksy_txp0058f6d2ges100_Medium_1122222-5aabdd1ac06471003625bc4a.jpg",
+        "time": 10,
+        "age": "9-12"
+    },
+    {
+        "id": "7",
+        "name": "Finance",
+        "details": "Addidas",
+        "img": "https://saltwire.imgix.net/2022/4/19/how-physical-books-provide-a-much-needed-respite-from-the-wo_flTvElc.jpg?cs=srgb&fit=crop&h=568&w=847&dpr=1&auto=compress%2Cenhance%2Cformat",
+        "time": 12,
+        "age": "10-13"
+    },
+    {
+        "id": "8",
+        "name": "Economics",
+        "details": "Addidas",
+        "img": "https://previews.123rf.com/images/ammentorp/ammentorp1611/ammentorp161100107/65494953-close-up-image-of-a-young-female-student-doing-assignments-in-library-asian-woman-taking-notes-from-.jpg",
+        "time": 3,
+        "age": "12-15"
+    },
+    {
+        "id": "9",
+        "name": "History",
+        "details": "Addidas",
+        "img": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2021/04/GettyImages-1220543429-1920x1152.jpg",
+        "time": 11,
+        "age": "10-12"
+    }
+  ]
+  
